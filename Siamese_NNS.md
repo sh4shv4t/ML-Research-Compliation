@@ -1,0 +1,3 @@
+### Siamese Neural Networks
+
+I first came across SNNs during a deep learning for computer vision course class. I initially just brushed them off as models generating latent space representations of two features and calculating the distances between them. I am glad to report that this misconception of mine was cleared quite quickly thanks to yann lecunn's work on forgery detection in signatures using time dynamic siamese neural networks (I keep forgetting how legendary this guy is). 
