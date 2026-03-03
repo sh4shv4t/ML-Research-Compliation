@@ -18,6 +18,6 @@ how does the loss function work
 
 more applications of SNNs
 
-meaning of Siamese here
+meaning of Siamese here - not the cat XD, also not of Siam (now Thailand). Here it means closely connected.
 
 different loss functions we can use 
