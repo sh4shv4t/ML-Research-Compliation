@@ -1,5 +1,7 @@
 ### Siamese Neural Networks
 
+A medium article I wrote on the topic - [Unraveling Siamese Neural Networks (no they’re not related to the cats)](https://medium.com/@shashvat.k.singh.16/unraveling-siamese-neural-networks-no-theyre-not-related-to-the-cats-1d51c2f7d222)
+
 I first came across SNNs during a deep learning for computer vision course class. I initially just brushed them off as models generating latent space representations of two features and calculating the distances between them. I am glad to report that this misconception of mine was cleared quite quickly thanks to yann lecunn's work on forgery detection in signatures using time delay siamese neural networks (I keep forgetting how legendary this guy is). 
 
 Link to the paper is - [Signature Verification using a "Siamese"
@@ -16,7 +18,7 @@ loved how innovatively leCun was able to think about considering time as a featu
 still a little bit confused as to why we dont use a single model for vector embeddings kinda
 how does the loss function work
 
-more applications of SNNs
+more applications of SNNs - siamese neural networks for audio like differentiating between happy and sad (project incoming), otehers
 
 meaning of Siamese here - not the cat XD, also not of Siam (now Thailand). Here it means closely connected.
 
